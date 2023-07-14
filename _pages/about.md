@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![A picture of me doing a fun presentation](/images/Purvanshi_Presentation.jpeg){: .align-right width="400px"}
+![A picture of me doing a fun presentation](/images/Purvanshi_Presentation.png){: .align-right width="400px"}
 
 👩‍💻 I'm a graduate student at the University College Dublin in the Masters in Management program. 
 
