@@ -9,6 +9,8 @@ author_profile: true
 
 With a bachelor's degree in law, specializing in Insolvency and Bankruptcy, I have built a strong foundation in the legal field. However, my career journey has taken me on a path of exploration and growth, leading me to embrace diverse roles in the fields of content marketing and consulting. These experiences have honed my abilities and allowed me to offer a unique blend of legal expertise, strategic consulting insights, and technological acumen.
 
+![A picture of me with my MIM friends](/personal-website.github.io/images/picture_with_friends.jpeg){: .align-center width="400px"}
+
 ### Passion for Human Capital Consulting: 
 Throughout my professional journey, I discovered my true calling in the realm of human capital consulting. Working in different setups and environments, I realized my deep desire to help organizations enhance their functioning by leveraging the potential of their human resources. This passion for driving positive change and organizational improvement led me to pursue a Master's in Management program at UCD Michael Smurfit Business School, where I delved into subjects such as human resource management, corporate finance, and managing innovative projects. This program equipped me with the tools to navigate the intricacies of organizational operations and fuel my drive for creating impactful solutions.
 
