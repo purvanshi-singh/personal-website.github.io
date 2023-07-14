@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![A picture of me doing a fun presentation](/images/Purvanshi_Presentation.png){: .align-right width="400px"}
-
+<!-- ![A picture of me doing a fun presentation](/images/Purvanshi_Presentation.png){: .align-right width="400px"} -->
 👩‍💻 I'm a graduate student at the University College Dublin in the Masters in Management program. 
 
 🥅 I have studied law, I have worked in Digital Marketing and Legal Strategy roles and want to use my diverse experiences in helping companies manage Change better!
@@ -21,6 +20,3 @@ With over 2 years of diverse experience in consulting, I have worked closely wit
 If you're seeking a change catalyst, a trusted advisor, or a guide to propel your business forward or help you navigate your future education related decisions you're in the right place. Join me on this journey of transformation, where we will harness the power of change, elevate human potential, and unlock new possibilities. 
 
 Ready to embark on this transformative journey? Explore the realm connecting change management, human capital optimization, and legal consulting with me. Let's make a lasting impact, one step at a time.
-
-Change Management | Human Capital | Lawyer | Consultant
-

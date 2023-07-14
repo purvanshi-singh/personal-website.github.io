@@ -5,9 +5,9 @@ main:
     # url: /talks/
     url: /introduction/ 
 
-  - title: "About Me"
+  - title: "Background"
     # url: /teaching/  
-    url: /about/
+    url: /background/
 
   - title: "CV"
     url: /files/Purvanshi Singh_CV_Website.pdf
